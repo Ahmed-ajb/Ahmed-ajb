@@ -1,6 +1,6 @@
 # Ahmed Ajebli 🚀
 
-I am a student of systems and big data with experience in ETL, Java and IBM SPSS. I am currently pursuing my professional degree in Systems and Big Data at the Ecole Supérieure de Technologie de Salé.
+I am a student of systems and big data with experience in data science & data integration. I am currently pursuing my professional degree in Systems and Big Data at the Ecole Supérieure de Technologie de Salé.
 
 ## Skills 💻
 - Extract, Transform, Load (ETL)
