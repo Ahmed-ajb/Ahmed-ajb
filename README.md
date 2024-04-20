@@ -1,6 +1,8 @@
 # Ahmed Ajebli 🚀
 
-I am a student of systems and big data with experience in data science & data integration. I am currently pursuing my professional degree in Systems and Big Data at the Ecole Supérieure de Technologie de Salé.
+M1 Student | Artificial Intelligence & Data Analysis
+
+Passionate about leveraging the power of data and AI to solve real-world problems. Currently pursuing a Master's degree in Artificial Intelligence and Data Analysis at Université Moulay Ismail Meknès, building upon a strong foundation in Information Systems and Big Data. Eager to apply my skills and knowledge to contribute to innovative projects and research in the field of AI.
 
 ## Skills 💻
 - Extract, Transform, Load (ETL)
@@ -12,13 +14,14 @@ I am a student of systems and big data with experience in data science & data in
 - DATA WAREHOUSING
 
 ## Experience 📚
-- Ecole Supérieure de Technologie de Salé, Student (October 2022 - Present)
+- Centre Hospitalier Universitaire Hassan II, Project Intern (April 2023 - June 2023)
 - La Province, Internship Project (April 2022 - June 2022)
 - Allianz, Internship (August 2021 - September 2021)
 
 ## Education 🎓
-- Ecole Supérieure de Technologie de Salé, Professional Degree in Systems and Big Data (October 2022)
-- Ecole Supérieure de Technologie de Fès, 2nd year DUT in Business Intelligence (October 2020 - June 2022)
+- Université Moulay Ismail Meknès, Master's in Intelligence Artificielle et Analyse des Données (November 2023 - July 2025)
+- Ecole Supérieure de Technologie de Salé, Bachelor's in Systems of Information and Big Data (October 2022 - June 2023)
+- Ecole Supérieure de Technologie de Fès, 2nd year DUT in Informatique Décisionnelle (BI) (October 2020 - June 2022)
 
 ## Contact 📱
 - Mobile: 0708017104
