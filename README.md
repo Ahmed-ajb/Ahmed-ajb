@@ -6,12 +6,9 @@ Passionate about leveraging the power of data and AI to solve real-world problem
 
 ## Skills 💻
 - Extract, Transform, Load (ETL)
-- Java
-- IBM SPSS
-- TIME SERIES
-- K-MEANS
 - DATA MINING
 - DATA WAREHOUSING
+- AI
 
 ## Experience 📚
 - Centre Hospitalier Universitaire Hassan II, Project Intern (April 2023 - June 2023)
