@@ -1,6 +1,6 @@
 # Ahmed Ajebli 🚀
 
-M2 Student | Artificial Intelligence & Data Analysis
+M.S Artificial Intelligence & Data Analysis
 
 Passionate about leveraging the power of data and AI to solve real-world problems. Currently pursuing a Master's degree in Artificial Intelligence and Data Analysis at Université Moulay Ismail Meknès, building upon a strong foundation in Information Systems and Big Data. Eager to apply my skills and knowledge to contribute to innovative projects and research in the field of AI.
 
